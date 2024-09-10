@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PlannerRunner",
+            "request": "launch",
+            "mainClass": "com.csase.PlannerRunner",
+            "projectName": "githubintro"
+        }
+    ]
+}
